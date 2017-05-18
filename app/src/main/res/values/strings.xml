@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Buscaminas</string>
+    <string name="ganador">Ganaste!</string>
+</resources>
